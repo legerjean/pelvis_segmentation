@@ -23,6 +23,7 @@ The file main.py shows an example of use with a 3-fold cross-validation using 63
 Below is an example. Each column corresponds to a slice of the same CBCT. Dark colours represent reference segmentations, while light colours show u-net segmentation. The predicted bladder, in pink, has a DSC of 0.940, the rectum, in light green, has a DSC of 0.791, the prostate, in light blue, has a DSC of 0.780.
 
 Here is the link to the corresponding journal publication: https://www.mdpi.com/2076-3417/10/3/1154
+
 This is an extension of following conference publication: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10951/109511M/Using-planning-CTs-to-enhance-CNN-based-bladder-segmentation-on/10.1117/12.2512791.short?SSO=1
 
 ![alt text](example.png)
